@@ -1,0 +1,68 @@
+---
+title: <alpha-value>
+slug: Web/CSS/alpha-value
+summary: "The alpha-value CSS data type represents a value that can be either a number or a percentage, specifying the alpha channel\_or transparency of a color."
+tags:
+  - Alpha-value
+  - CSS
+  - CSS Data Type
+  - Data Type
+  - Draft
+  - Example
+---
+<div>{{CSSRef}}</div>
+
+<p>The <strong><code>&lt;alpha-value&gt;</code></strong> <a href="/en-US/docs/Web/CSS">CSS</a> <a href="/en-US/docs/Web/CSS/CSS_Types">data type</a> represents a value that can be either a {{cssxref("&lt;number&gt;")}} or a {{cssxref("&lt;percentage&gt;")}}, specifying the <strong>{{Glossary("alpha", "alpha channel")}}</strong> or <strong>transparency</strong> of a color.</p>
+
+<h2 id="Syntax">Syntax</h2>
+
+<p>If given as a number, the useful range is '0' (fully transparent) to '1' (fully opaque), with decimal values in between. Values outside the range of 0 to 1 are valid, but are <a href="https://en.wikipedia.org/wiki/Clamping_(graphics)">clamped</a> to 0 or 1.</p>
+
+<p>If given as a percentage, '0%' corresponds to fully transparent, and '100%' to fully opaque.</p>
+
+<h2 id="Interpolation">Interpolation</h2>
+
+<p>When animated, values of the <code>&lt;alpha-value&gt;</code> CSS data type are interpolated as real, floating-point numbers. The speed of the interpolation is determined by the <a href="/en-US/docs/Web/CSS/single-transition-timing-function">timing function</a> associated with the animation.</p>
+
+<h2 id="Examples">Examples</h2>
+
+<h3 id="Setting_text_color_opacity">Setting text color opacity</h3>
+
+<p>Here an alpha value is used to set partially transparent text:</p>
+
+<pre class="brush: css no-line-numbers language-css notranslate">/* &lt;rgba()&gt; */
+color: rgba(34, 12, 64, 0.6);
+color: rgba(34.0 12 64 / 60%);
+</pre>
+
+<h3 id="Setting_shape_image_threshold">Setting shape image threshold</h3>
+
+<p>Here an alpha value is used to determine which parts of an image are considered part of a shape:</p>
+
+<pre class="brush: css no-line-numbers language-css notranslate">/* shape-image-threshold */
+shape-image-threshold: 70%;
+shape-image-threshold: 0.7;</pre>
+
+<h2 id="Specifications">Specifications</h2>
+
+<table class="standard-table">
+ <thead>
+  <tr>
+   <th scope="col">Specification</th>
+   <th scope="col">Status</th>
+   <th scope="col">Comment</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>{{SpecName('CSS4 Colors', '#type-def-alpha-value', '&lt;alpha-value&gt;')}}</td>
+   <td>{{Spec2('CSS4 Colors')}}</td>
+   <td>No significant change.</td>
+  </tr>
+  <tr>
+   <td>{{SpecName('CSS3 Colors', '#alphavaluedt', '&lt;alpha-value&gt;')}}</td>
+   <td>{{Spec2('CSS3 Colors')}}</td>
+   <td>Introduces <code>&lt;alpha-value&gt;</code> along with <code>rgba()</code> and <code>hsla()</code> functional notations.</td>
+  </tr>
+ </tbody>
+</table>
