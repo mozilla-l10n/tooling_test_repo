@@ -1,7 +1,7 @@
-Aviso de privacidad de voz común \- MT
-=======================================
+Aviso de privacidad de voz común
+================================
 
-Efectivo el 15 de agosto de 2019 \{: datetime="2019\-08\-15 \}"
+Efectivo el 15 de agosto de 2019 \{: datetime="2019\-08\-15" \}
 
 Privacidad
 ----------
