@@ -1,0 +1,56 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/ie/
+
+# HTML page title
+compare-ie-firefox-vs-internet-explorer = { -brand-name-firefox } vs. { -brand-name-ie } : Welcher Browser ist der bessere für Sie?
+
+# HTML page description
+compare-ie-compare-internet-explorer-to = Vergleichen Sie { -brand-name-ie } mit { -brand-name-firefox-browser } , um herauszufinden, welcher Browser für Sie der bessere ist.
+
+# Main title
+compare-ie-comparing-firefox-browser-with = Vergleich von { -brand-name-firefox-browser } mit { -brand-name-microsoft } { -brand-name-ie }
+compare-ie-while-microsofts-internet-explorer = Während { -brand-name-microsoft } { -brand-name-ie } auf den meisten Windows-basierten PCs noch vorinstalliert ist, würde { -brand-name-microsoft } es eindeutig vorziehen, den { -brand-name-edge } -Browser zu verwenden, der beim Kauf als Standardbrowser festgelegt wird.
+compare-ie-microsoft-discontinued-its-internet = { -brand-name-microsoft } hat seine Marke { -brand-name-ie } einigen Jahren zugunsten seines aktualisierten { -brand-name-edge } Browsers für { -brand-name-windows } 10 eingestellt. Durch die langsame Übernahme von { -brand-name-edge } wurde jedoch Platz für { -brand-name-ie } geschaffen, vor allem aus Gründen der Geschäftskompatibilität Gründe dafür.
+compare-ie-here-well-compare-our-firefox = Hier vergleichen wir unsere { -brand-name-firefox-browser } mit { -brand-name-ie } in Bezug auf Sicherheit, Nützlichkeit und Portabilität. Wir helfen Ihnen dabei, die Unterschiede zwischen dem Vergleich eines modernen Browsers wie { -brand-name-firefox } , der den Webstandards entspricht, und dem Browser, den Sie möglicherweise für geschäftliche Zwecke verwenden, oder aufgrund alter Gewohnheiten, die schwer zu sterben sind, zu verstehen.
+
+# Variables:
+#   $attrs (string) - link to https://www.telegraph.co.uk/technology/2019/02/08/stop-using-internet-explorer-warns-microsofts-security-chief/ with additional attributes for analytics
+compare-ie-if-you-havent-moved-on-from-using = Wenn Sie { -brand-name-ie } , sollte der Sicherheitsrisikofaktor allein ausreichen, um Sie zu überzeugen.  <a { $attrs }> { -brand-name-microsoft } 's eigener Sicherheitschef hat </a>  Million Menschen, die weiterhin { -brand-name-ie } als Hauptwebbrowser verwenden, gewarnt, dass sie sich selbst in Gefahr bringen.
+compare-ie-microsoft-is-no-longer-supporting = { -brand-name-microsoft } keine Neuentwicklung für { -brand-name-ie } , was bedeutet, dass Sicherheitsbedenken weit verbreitet sind. { -brand-name-microsoft } erkennt offen an, dass in praktisch jeder Version von { -brand-name-ie } Sicherheitslücken bestehen.
+
+# Variables:
+#   $attrs (string) - link to https://support.mozilla.org/kb/legacy-browser-support-extension-windows with additional attributes for analytics
+compare-ie-so-whats-the-solution-if-your = Was ist die Lösung, wenn in Ihrem Unternehmen Legacy-Apps ausgeführt werden, die nur mit { -brand-name-ie } funktionieren? Unser bester Rat ist, Geschäft nicht mit Vergnügen zu verbinden. Wir empfehlen die Verwendung der <a { $attrs }>Legacy Browser Support-Erweiterung</a> für { -brand-name-windows } . Mit dieser Erweiterung können Benutzer automatisch einen vordefinierten Satz von URLs in { -brand-name-ie } öffnen und beim Navigieren zu einer anderen Domäne zu { -brand-name-firefox } .
+
+# Variables:
+#   $lockwise (string) - link to /firefox/lockwise/ with additional attributes for analytics
+#   $privacy (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-ie-so-whats-the-solution-if-your-fallback = Was ist die Lösung, wenn in Ihrem Unternehmen veraltete Apps ausgeführt werden, die nur mit { -brand-name-ie } funktionieren? Unser bester Rat für Sie persönlich ist, Geschäft und Vergnügen nicht zu vermischen. Am einfachsten ist es, einen sichereren Browser wie { -brand-name-firefox } herunterzuladen und zu verwenden. Wenn Sie beispielsweise Ihre persönlichen E-Mails abrufen oder online einkaufen müssen, können Sie einfach auf den sichereren Browser umschalten. Die Quintessenz ist, wenn { -brand-name-microsoft } Leute warnt, { -brand-name-ie } nicht zu verwenden, verwenden Sie es nicht. Ihre Online-Privatsphäre und -Sicherheit sind kein Risiko wert, da es Ihnen (oder Ihrem Unternehmen) schwer fällt, eine alte Gewohnheit zu brechen. Wir machen { -brand-name-firefox } mit Sicherheits- und Datenschutzfunktionen wie <a { $lockwise }>{ -brand-name-lockwise }</a> , unserem Passwort-Manager, privatem Surfen und vielen anderen Add-Ons, die uns helfen, das Web für Sie sicherer zu machen. Unsere <a { $privacy }>Datenschutzrichtlinie</a> ist unkompliziert: Wir sagen Ihnen, was wir über Sie wissen und warum wir diese Informationen sammeln. All diese Dinge gehen offensichtlich über das hinaus, was { -brand-name-ie } bietet, und sogar über das, was andere moderne Browser wie { -brand-name-google } { -brand-name-chrome } und { -brand-name-microsoft } { -brand-name-edge } bieten.
+
+compare-ie-alarmingly-4-to-5-of-all-desktop = Es ist alarmierend, dass 4 bis 5% des gesamten Desktop-Webverkehrs erst 2019 über { -brand-name-ie } abgewickelt wurden. Das scheint nicht viel zu sein, aber in Wirklichkeit bedeutet dies, dass Millionen von Menschen ein schlechtes Interneterlebnis mit langsamen Lade- und Renderzeiten erhalten , Seiten, die nicht richtig angezeigt werden - alles zusätzlich zu den bereits besprochenen Sicherheitsproblemen.
+compare-ie-alarmingly-4-to-5-of-all-desktop-fallback = Alarmierend ist, dass 4 bis 5% des gesamten Desktop-Webverkehrs über { -brand-name-ie } . Das scheint nicht viel zu sein, aber in Wirklichkeit bedeutet dies, dass Millionen von Menschen ein schlechtes Interneterlebnis mit langsamen Lade- und Renderzeiten erhalten, Seiten, die nicht richtig angezeigt werden - alles zusätzlich zu den bereits diskutierten Sicherheitsproblemen.
+compare-ie-really-the-only-reasons-to-use = Die einzigen Gründe für die Verwendung von { -brand-name-ie } sind, dass Entwickler testen, wie ihre Websites in einem älteren Browser aussehen oder ob ein Unternehmen über geschäftskritische Apps verfügt, die nur mit dem Browser { -brand-name-ie } funktionieren.
+
+# Variables:
+#   $pocket (string) - link to getpocket.com with additional attributes for analytics
+#   $products (string) - link to /firefox/products/ with additional attributes for analytics
+compare-ie-on-the-other-end-of-the-spectrum = Am anderen Ende des Spektrums ist { -brand-name-firefox } einer der am häufigsten aktualisierten Browser und enthält viele nützliche und interessante Funktionen wie <a { $pocket }>{ -brand-name-pocket }</a> , die jedes Mal, wenn Sie einen neuen Tab öffnen, interessante Inhalte vorschlagen. Unsere einheitliche Such- und Webadressleiste oder <em>Quantum Bar,</em> wie wir sie nennen, bietet Ihnen auch Vorschläge, die auf Ihren vorhandenen Lesezeichen und Tags, dem Verlauf, geöffneten Registerkarten und beliebten Suchanfragen basieren. Mit einem kostenlosen { -brand-name-firefox } Konto erhalten Sie auf jedem Gerät Zugriff auf alle Ihre Einstellungen und <a { $products }>unsere anderen { -brand-name-firefox } Produkte</a> , indem Sie sich einfach anmelden. Außerdem können Sie sicher sein, dass Ihr Browser proaktiv zum Schutz Ihrer persönlichen Daten beiträgt.
+
+# Variables:
+#   $pocket (string) - link to /firefox/pocket/ with additional attributes for analytics
+#   $products (string) - link to /firefox/products/ with additional attributes for analytics
+compare-ie-on-the-other-end-of-the-spectrum-fallback = Am anderen Ende des Spektrums ist { -brand-name-firefox } einer der am häufigsten aktualisierten Browser und enthält viele nützliche und interessante Funktionen wie <a { $pocket }>{ -brand-name-pocket }</a> , die jedes Mal, wenn Sie einen neuen Tab öffnen, interessante Inhalte vorschlagen. Unsere einheitliche Such- und Webadressleiste oder <em>Awesome Bar,</em> wie wir sie nennen, bietet Ihnen auch Vorschläge, die auf Ihren vorhandenen Lesezeichen und Tags, dem Verlauf, geöffneten Registerkarten und beliebten Suchanfragen basieren. Mit einem kostenlosen { -brand-name-firefox } Konto erhalten Sie auf jedem Gerät Zugriff auf alle Ihre Einstellungen und <a { $products }>unsere anderen { -brand-name-firefox } Produkte</a> , indem Sie sich einfach anmelden. Außerdem können Sie sicher sein, dass Ihr Browser proaktiv zum Schutz Ihrer persönlichen Daten beiträgt.
+
+# "sunset" here means Microsoft is officially ending production of Internet Explorer. Alternative: "retire"
+compare-ie-as-microsoft-has-made-the-move = Da { -brand-name-microsoft } den Browser { -brand-name-ie } auf Sonnenuntergang umgestellt hat, unterstützt er keine Version mehr für { -brand-name-ios } und war für { -brand-name-android } nie verfügbar. Das heißt, wenn Sie keinen Windows-basierten Laptop oder Desktop verwenden, haben Sie keinen Zugriff auf Ihre Lesezeichen, den Browserverlauf, gespeicherte Kennwörter und andere Informationen, die moderne Browser geräteübergreifend synchronisieren.
+compare-ie-firefox-works-on-any-platform = { -brand-name-firefox } funktioniert auf jeder Plattform, einschließlich { -brand-name-windows } , { -brand-name-mac } , { -brand-name-linux } , { -brand-name-android } und { -brand-name-ios } . Dies bedeutet auch, dass Sie alle Ihre Informationen plattformübergreifend synchronisieren können. Wenn Sie also auf einem { -brand-name-windows } -basierten Laptop surfen, können Sie dort weitermachen, wo Sie aufgehört haben, wenn Sie auf Ihrem { -brand-name-iphone } oder { -brand-name-android } -Gerät surfen. Diese Bequemlichkeit sollte bei jedem modernen Webbrowser Standard sein und fehlt bei { -brand-name-ie } .
+compare-ie-there-was-a-time-not-so-long = Vor nicht allzu langer Zeit war { -brand-name-ie } der beliebteste und am weitesten verbreitete Browser der Welt. Die Zeiten haben sich geändert, ebenso die Technologie, aber leider ist { -brand-name-ie } so ziemlich gleich geblieben. { -brand-name-microsoft } selbst fordert Benutzer offen auf, die Verwendung von { -brand-name-ie } einzustellen und stattdessen zu ihrem neueren { -brand-name-chromium } -basierten { -brand-name-edge } -Browser zu wechseln.
+
+# Variables:
+#   $attrs (string) - link to /firefox/download/thanks/ with additional attributes for analytics
+# "Nana" is a common nickname for a grandmother in many English-speaking countries. Use a similar name for a grandmother in your language or culture.
+# "firing up" is slang for starting an engine, and here means starting a web browser. Alternative: "starting up"
+compare-ie-our-opinion-is-just-to-go-with = Unsere Meinung ist nur, mit einem vertrauenswürdigen, privaten Browser zu arbeiten, der nachweislich eine großartige Erfahrung auf allen Geräten bietet. Im direkten Vergleich ist es überhaupt kein Wettbewerb. { -brand-name-firefox } ist zweifellos der Gewinner in allen Bewertungskategorien. Wenn Sie sich in Nanas Haus befinden und { -brand-name-ie } Brand setzen, möchten Sie Nana vielleicht einen Gefallen tun und  <a { $attrs }> { -brand-name-firefox } </a>  für sie herunterladen.
