@@ -22,6 +22,7 @@
 ## Firefox browsers
 
 -brand-name-firefox = फ़ायरफ़ॉक्स
+-brand-name-firefox-beta = फ़ायरफ़ॉक्स बीटा
 -brand-name-firefox-browser = फ़ायरफ़ॉक्स ब्राउज़र
 -brand-name-firefox-browsers = फ़ायरफ़ॉक्स ब्राउज़र
 -brand-name-firefox-developer-edition = फ़ायरफ़ॉक्स डेवलपर संस्करण
@@ -37,9 +38,11 @@
 ## Firefox browsers (short names)
 
 -brand-name-beta = बीटा
+-brand-name-developer-edition = डेवलपर संस्करण
 -brand-name-enterprise = उद्यम
 -brand-name-esr = ईएसआर
 -brand-name-focus = फोकस
+-brand-name-lite = हल्का
 -brand-name-nightly = हर रात को
 -brand-name-reality = वास्तविकता
 -brand-name-daylight = दिन का प्रकाश
@@ -85,6 +88,7 @@
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = आम आवाज
+-brand-name-hubs = केन्द्रों
 -brand-name-mdn = MDN
 
 ## Open Source projects
