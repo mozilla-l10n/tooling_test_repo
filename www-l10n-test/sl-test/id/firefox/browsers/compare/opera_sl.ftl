@@ -1,0 +1,51 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
+
+# HTML page title
+compare-opera-firefox-vs-opera-which-is = { -brand-name-firefox } vs. { -brand-name-opera } : Peramban manakah yang lebih baik untuk Anda?
+
+# HTML page description
+compare-opera-compare-opera-to-the-firefox = Bandingkan { -brand-name-opera } dengan { -brand-name-firefox-browser } untuk mengetahui peramban terbaik untuk Anda.
+
+# Main title
+compare-opera-comparing-firefox-browser = Membandingkan { -brand-name-firefox-browser } dengan { -brand-name-opera }
+
+compare-opera-operas-privacy-policy-lacks = Kebijakan privasi { -brand-name-opera } kurang spesifik dalam penjelasannya tentang jenis informasi apa yang dikumpulkan dan bagaimana caranya. Di bagian tertentu, dikatakan mereka mengumpulkan nama pemegang akun, alamat IP, dan istilah pencarian. Yang tampak membingungkan dan mengganggu adalah bagian tentang transfer data internasional; kapan, seberapa sering dan mengapa mereka perlu mentransfer data Anda secara internasional tidak dijelaskan.
+compare-opera-operas-privacy-policy-lacks-fallback = Kebijakan privasi { -brand-name-opera } kurang spesifik dalam penjelasannya tentang jenis informasi apa yang dikumpulkannya dan bagaimana, di bagian tertentu, dikatakan mereka mengumpulkan nama pemegang akun, alamat IP dan istilah pencarian. Yang tampak membingungkan dan mengganggu adalah bagian tentang transfer data internasional; kapan, seberapa sering dan mengapa mereka perlu mentransfer data Anda secara internasional tidak dijelaskan.
+compare-opera-the-firefox-browser-and-opera = { -brand-name-firefox-browser } dan { -brand-name-opera } adalah dua peramban paling awal di dunia yang masih sering merilis pembaruan. Meskipun { -brand-name-opera } belum mencapai tingkat adopsi pengguna yang sama seperti { -brand-name-firefox } atau { -brand-name-google } { -brand-name-chrome } , itu mempertahankan basis yang relatif stabil dan setia selama periode waktu yang berkelanjutan. Dalam tinjauan ini, kami akan membandingkan peramban { -brand-name-opera } dengan peramban { -brand-name-firefox } dalam hal keamanan dan privasi, utilitas, dan portabilitas untuk membantu Anda memilih peramban mana yang paling sesuai untuk Anda.
+
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-opera-firefoxs-privacy-policy-is = <a { $attrs }>Kebijakan privasi</a> { -brand-name-firefox } sangat transparan dalam menjelaskan informasi pribadi apa yang kami kumpulkan dengan satu-satunya tujuan akhir untuk memberi Anda kendali yang lebih besar atas informasi yang Anda bagikan secara online.
+compare-opera-as-far-as-actual-privacy-protections = Sejauh perlindungan privasi aktual di { -brand-name-opera } peramban, ini memang menawarkan mode Pribadi canggih yang memungkinkan Anda menjelajahi web tanpa peramban melacak aktivitas Anda. Juga dalam mode penjelajahan normal, Anda juga dapat mematikan beberapa fitur pengumpulan data dengan menggali pengaturan untuk mengaktifkan pemblokir iklan dan menyesuaikan fitur keamanan lainnya.
+
+# Variables:
+#   $attrs (string) - link to https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/ with additional attributes for analytics
+compare-opera-with-the-latest-version-of = Dengan versi terbaru { -brand-name-firefox } , <a { $attrs }>Perlindungan Pelacakan yang Ditingkatkan</a> diaktifkan secara default dalam mode perambanan normal, jadi Anda tidak perlu dipusingkan dengan pengaturan hanya untuk melindungi diri Anda dari pelacak. Dengan Perlindungan Pelacakan yang Ditingkatkan, { -brand-name-firefox } secara aktif memblokir ribuan pelacak pihak ketiga yang mencoba mengikuti Anda di seluruh web. Anda diberikan laporan perlindungan yang dipersonalisasi yang menunjukkan seberapa sering { -brand-name-firefox } memblokir cookie pihak ketiga, pelacak media sosial, alat sidik jari, dan cryptominers saat Anda menjelajahi web.
+compare-opera-we-make-firefox-for-people = Kami membuat { -brand-name-firefox } untuk orang-orang seperti Anda, yang sangat peduli tentang privasi dan keamanan pribadi. Itulah mengapa kami mengumpulkan begitu sedikit info tentang pengguna dan transparan tentang cara kami menggunakan info itu. Sulit untuk mengetahui bagaimana { -brand-name-opera } beroperasi dari perspektif privasi. Meskipun ada fitur privasi yang kuat, cara mereka mengumpulkan dan membagikan data Anda tidak jelas. { -brand-name-firefox } tetap konsisten dengan apa yang kami katakan dan apa yang kami lakukan dalam melindungi privasi Anda.
+
+# Variables:
+#   $attrs (string) - link to addons.mozilla.org with additional attributes for analytics
+compare-opera-theres-no-debate-that-opera = Tidak ada perdebatan bahwa { -brand-name-opera } adalah peramban penuh fitur dengan antarmuka pengguna yang bersih dan opsi penyesuaian yang kuat. Karena { -brand-name-opera } dibangun di atas { -brand-name-chromium } , ini dapat memanfaatkan sebagian besar pustaka ekstensi { -brand-name-google } { -brand-name-chrome } luas. { -brand-name-firefox } juga dilengkapi dengan  <a { $attrs }> pustaka ekstensi yang besar untuk meramban </a> , tetapi tidak sebesar { -brand-name-chrome } .
+compare-opera-like-firefox-opera-delivers = Seperti { -brand-name-firefox } , { -brand-name-opera } memberikan pengalaman tab gulir, yang berarti bahwa saat Anda membuka lebih banyak tab daripada yang muat di layar, itu menggulirnya keluar layar, bukan terus-menerus menyusutkannya. Juga { -brand-name-firefox } dan { -brand-name-opera } memiliki alat tangkapan layar yang memungkinkan Anda menangkap jepretan layar atau bagian laman Anda. Namun, alat { -brand-name-opera } tidak memberi Anda kemampuan untuk membuat satu tangkapan besar dari keseluruhan laman web, hanya bagian yang terlihat.
+
+# Variables:
+#   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
+# "Facebook Messenger" is a brand name.
+compare-opera-opera-provides-a-lot-of-hidden = { -brand-name-opera } menyediakan banyak utilitas tersembunyi di dalam antarmuka yang sederhana dan mudah dikelola. Misalnya ada dukungan bawaan untuk aplikasi perpesanan, seperti { -brand-name-facebook } Messenger. Ada juga pembaca berita yang mengumpulkan artikel dari situs dan outlet berita pilihan Anda. Fitur paralel ini di { -brand-name-firefox } disebut <a { $attrs }>{ -brand-name-pocket }</a> . { -brand-name-pocket } adalah layanan gratis untuk { -brand-name-firefox } pemegang akun yang memudahkan untuk menemukan dan menyimpan artikel dan video menarik dari seluruh web. Selain itu, ini merekomendasikan berbagai artikel yang memperluas basis pengetahuan Anda yang dikurasi oleh manusia yang nyata dan bijaksana.
+compare-opera-in-terms-of-head-to-head-utility = Dalam hal utilitas head to head, { -brand-name-opera } dan { -brand-name-firefox } adalah pesaing dekat. { -brand-name-opera } mungkin memiliki keuntungan dalam satu aspek dengan kompatibilitasnya dengan dan akses ke pustaka ekstensi { -brand-name-chrome } sangat besar. Namun satu faktor penting untuk dipertimbangkan adalah fakta bahwa { -brand-name-opera } , karena dibuat di atas { -brand-name-chromium } , adalah peramban yang haus prosesor dengan konsumsi RAM-nya sebanding dengan { -brand-name-chrome } , yang dikenal dengan penggunaan CPU yang tinggi.
+
+# "Ex" is a former partner or spouse, as in "ex-boyfriend" or "ex-wife." Alternative: "former partner"
+compare-opera-both-firefox-and-opera-are = Baik { -brand-name-firefox } dan { -brand-name-opera } kompatibel di semua platform termasuk { -brand-name-windows } , { -brand-name-mac } , { -brand-name-linux } , { -brand-name-android } dan { -brand-name-ios } . { -brand-name-firefox } pemegang akun dapat dengan mudah menyinkronkan bookmark, sandi, tab terbuka, dan riwayat perambanan mereka di semua perangkat yang mereka masuki. Hal yang sama berlaku untuk { -brand-name-opera } pengguna dengan akun. Namun, banyak situs, terutama situs lama yang belum diperbarui selama bertahun-tahun, memblokir versi terbaru { -brand-name-opera } sepenuhnya. Jadi, jika mengunjungi tempat-tempat seperti blog lama Ex Anda itu penting, perhatikan, Anda mungkin tidak dapat mengakses beberapa sudut paling kotor di internet jika Anda menggunakan { -brand-name-opera } .
+
+# "Touch" and "Mini" are brand names.
+compare-opera-in-addition-to-the-regular = Selain aplikasi seluler biasa, { -brand-name-opera } memiliki dua versi seluler lainnya dari perambannya: Sentuh dan Mini. Sentuhan ringan pada fitur tetapi dirancang untuk digunakan saat bepergian hanya dengan satu tangan. Versi Mini bertujuan untuk menurunkan penggunaan data dan meningkatkan kecepatan pada koneksi yang lambat dengan menurunkan gambar dan menghapus konten.
+
+# Variables:
+#   $attrs (string) - link to https://play.google.com/store/apps/details?id=org.mozilla.fenix with additional attributes for analytics
+compare-opera-we-also-offer-an-additional = Kami juga menawarkan versi tambahan, meskipun masih eksperimental dari { -brand-name-firefox } aplikasi seluler,  <a { $attrs }> { -brand-name-firefox } Pratinjau </a> , yang berfokus pada kecepatan dan keamanan.
+compare-opera-most-major-browsers-these = Sebagian besar peramban utama saat ini, kecuali { -brand-name-safari } , bekerja dengan lancar di seluruh platform dan peramban. Tidak terkecuali { -brand-name-opera } dan { -brand-name-firefox } dengan kedua peramban yang menyediakan portabilitas yang sangat baik di setiap perangkat.
+compare-opera-overall-opera-is-a-solid-browser = Secara keseluruhan, { -brand-name-opera } adalah peramban yang kokoh, dengan antarmuka yang bersih dan tersedia banyak fitur berguna. Namun, ada beberapa masalah privasi yang serius serta masalah dengan penggunaan banyak kekuatan pemrosesan. Meskipun { -brand-name-opera } memiliki beberapa fitur kemudahan penggunaan yang sangat hebat, kami tetap yakin { -brand-name-firefox } tetap merupakan peramban yang unggul berdasarkan kinerja dan dengan sikap privasi pengguna yang transparan dan perlindungan privasi yang ketat.
