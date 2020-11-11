@@ -54,6 +54,7 @@
 
 ## Firefox products
 
+-brand-name-facebook-container = Facebookコンテナ
 -brand-name-firefox-account = Firefoxアカウント
 -brand-name-firefox-accounts = Firefoxアカウント
 -brand-name-firefox-devtools = Firefox DevTools
@@ -109,6 +110,7 @@
 -brand-name-android = アンドロイド
 -brand-name-ios = iOS
 -brand-name-linux = Linux
+-brand-name-mac = マックOS
 -brand-name-mac-short = マック
 -brand-name-windows = ウィンドウズ
 -brand-name-xp = XP
