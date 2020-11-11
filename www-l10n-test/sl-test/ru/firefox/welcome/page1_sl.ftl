@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+### URL: https://www-dev.allizom.org/firefox/welcome/1/
+
+# HTML page title
+welcome-page1-more-than-a-browser-firefox = Больше, чем просто браузер - { -brand-name-firefox-monitor } ищет хакеров
+
+# HTML page description
+welcome-page1-take-the-next-step-to-protect = Сделайте следующий шаг к защите своей конфиденциальности в Интернете с помощью продуктов семейства { -brand-name-firefox } .
+
+welcome-page1-stay-ahead-of-hackers-check = Опережайте хакеров. Проверьте наличие утечек данных с помощью { -brand-name-firefox-monitor } .
+welcome-page1-youre-on-track-to-stay-protected = Вы на пути к защите
+welcome-page1-youve-got-the-web-browser = У вас есть веб-браузер, который защищает вашу конфиденциальность - теперь пришло время найти хакеров.
+welcome-page1-check-your-breach-report = Проверьте свой отчет о взломе
+welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } показывает, произошла ли утечка вашей информации в результате известной утечки данных, и предупреждает вас, если это произойдет в будущем.
+welcome-page1-stay-ahead-of-hackers = Будьте впереди хакеров
+
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Найдите способы защитить свою информацию с помощью <a href="{ $security_tips }">{ -brand-name-monitor } советов по безопасности</a> .
+
+welcome-page1-stay-in-the-know = Оставайся в курсе
+
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = Были ли вы одним из 100 985 047 человек, которых  <a href="{ $evite_breach }"> пригласили на «вечеринку» </a> по взлому данных Evite?
+
+welcome-page1-why-am-i-seeing-this = Почему я это вижу?
