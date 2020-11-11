@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+### URL: https://www-dev.allizom.org/firefox/welcome/1/
+
+# HTML page title
+welcome-page1-more-than-a-browser-firefox = Lebih dari sekadar peramban - { -brand-name-firefox-monitor } adalah tempat Anda mencari peretas
+
+# HTML page description
+welcome-page1-take-the-next-step-to-protect = Ambil langkah selanjutnya untuk melindungi privasi Anda secara online dengan { -brand-name-firefox } rangkaian produk.
+
+welcome-page1-stay-ahead-of-hackers-check = Tetap terdepan dari peretas. Periksa pelanggaran data dengan { -brand-name-firefox-monitor } .
+welcome-page1-youre-on-track-to-stay-protected = Anda berada di jalur yang tepat untuk tetap terlindungi
+welcome-page1-youve-got-the-web-browser = Anda memiliki browser web yang melindungi privasi Anda - sekarang saatnya mencari peretas.
+welcome-page1-check-your-breach-report = Periksa Laporan Pelanggaran Anda
+welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
+welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } menunjukkan apakah informasi Anda telah bocor dalam pelanggaran data yang diketahui, dan memperingatkan Anda jika hal itu terjadi di masa mendatang.
+welcome-page1-stay-ahead-of-hackers = Tetap terdepan dari peretas
+
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = Temukan cara untuk melindungi info Anda dengan <a href="{ $security_tips }">{ -brand-name-monitor } Kiat Keamanan</a> .
+
+welcome-page1-stay-in-the-know = Terus dapatkan info terbaru
+
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = Apakah Anda salah satu dari 100.985.047 diundang ke <a href="{ $evite_breach }">&quot;pesta&quot; pelanggaran data Evite</a> ?
+
+welcome-page1-why-am-i-seeing-this = Mengapa saya melihat ini?
