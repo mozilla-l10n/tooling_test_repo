@@ -10,6 +10,7 @@ download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span>
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-supported-devices = Périphériques compatibles
 download-button-whats-new = Quoi de neuf
+download-button-systems-languages = Systèmes et langues
 download-button-recommended = conseillé
 
 # Variables:
@@ -35,6 +36,7 @@ download-button-download-app-store = Télécharger sur le { -brand-name-app-stor
 download-button-download-firefox = Télécharger { -brand-name-firefox }
 download-button-your-system-may = Votre système ne répond peut-être pas à la configuration requise pour { -brand-name-firefox } , mais vous pouvez essayer l'une de ces versions:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> pour { -brand-name-android }
+download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> pour { -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> pour { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> pour { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> pour { -brand-name-ios }

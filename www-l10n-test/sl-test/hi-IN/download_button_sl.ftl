@@ -37,6 +37,7 @@ download-button-download-firefox = डाउनलोड { -brand-name-firefox }
 download-button-your-system-may = आपका सिस्टम { -brand-name-firefox } लिए आवश्यकताओं को पूरा नहीं कर सकता है, लेकिन आप इनमें से किसी एक संस्करण की कोशिश कर सकते हैं:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> { -brand-name-android }
+download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios }
 download-button-firefox-privacy = { -brand-name-firefox } गोपनीयता

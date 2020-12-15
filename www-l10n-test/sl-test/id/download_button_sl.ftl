@@ -32,6 +32,7 @@ download-button-get-firefox-ios = Dapatkan { -brand-name-firefox } untuk { -bran
 download-button-google-play = Dapatkan di { -brand-name-google-play }
 download-button-free-google-play = Dapatkan gratis di { -brand-name-google-play }
 download-button-app-store = Dapatkan gratis dari { -brand-name-app-store }
+download-button-download-app-store = Unduh di { -brand-name-app-store }
 download-button-download-firefox = Unduh { -brand-name-firefox }
 download-button-your-system-may = Sistem Anda mungkin tidak memenuhi persyaratan untuk { -brand-name-firefox } , tetapi Anda dapat mencoba salah satu versi berikut:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> untuk { -brand-name-android }

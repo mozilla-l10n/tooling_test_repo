@@ -26,6 +26,7 @@ download-button-please-follow-these = Volg <a href="{ $url }">deze instructies</
 download-button-your-system-does-not = Uw systeem voldoet niet aan de <a href="{ $url }">vereisten</a> om { -brand-name-firefox } .
 
 download-button-firefox-other-platforms = { -brand-name-firefox } voor andere platforms en talen
+download-button-update-your-firefox = Update uw { -brand-name-firefox }
 download-button-get-firefox-android = Schaf { -brand-name-firefox } voor { -brand-name-android }
 download-button-get-firefox-ios = Schaf { -brand-name-firefox } voor { -brand-name-ios }
 download-button-google-play = Download het op { -brand-name-google-play }

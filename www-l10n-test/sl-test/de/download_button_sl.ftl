@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+download-button-download-now = Jetzt downloaden
 download-button-free-download = Kostenfreier Download
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
@@ -25,6 +26,7 @@ download-button-please-follow-these = Bitte folgen Sie <a href="{ $url }">diesen
 download-button-your-system-does-not = Ihr System erfüllt nicht die <a href="{ $url }">Anforderungen</a> für die Ausführung von { -brand-name-firefox } .
 
 download-button-firefox-other-platforms = { -brand-name-firefox } für andere Plattformen und Sprachen
+download-button-update-your-firefox = Aktualisieren Sie Ihre { -brand-name-firefox }
 download-button-get-firefox-android = Holen Sie sich { -brand-name-firefox } für { -brand-name-android }
 download-button-get-firefox-ios = Holen Sie sich { -brand-name-firefox } für { -brand-name-ios }
 download-button-google-play = Hol es dir auf { -brand-name-google-play }

@@ -34,6 +34,7 @@ download-button-free-google-play = { -brand-name-google-play }で無料で入手
 download-button-app-store = { -brand-name-app-store }から無料で入手
 download-button-download-app-store = { -brand-name-app-store }ダウンロード
 download-button-download-firefox = { -brand-name-firefox }ダウンロード
+download-button-your-system-may = お使いのシステムは{ -brand-name-firefox }要件を満たしていない可能性がありますが、次のいずれかのバージョンを試すことができます。
 download-button-firefox-beta-android = <span> { -brand-name-firefox-beta } </span>  for { -brand-name-android }
 download-button-firefox-aurora-android = <span> { -brand-name-firefox-aurora } </span>  for { -brand-name-android }
 download-button-firefox-nightly-android = <span> { -brand-name-firefox-nightly } </span>  for { -brand-name-android }
