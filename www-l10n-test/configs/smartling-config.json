@@ -1,0 +1,112 @@
+{
+    "locales": [{
+            "smartling": "ar",
+            "application": "ar"
+        },
+        {
+            "smartling": "zh-CN",
+            "application": "zh-CN"
+        },
+        {
+            "smartling": "zh-TW",
+            "application": "zh-TW"
+        },
+        {
+            "smartling": "nl-NL",
+            "application": "nl"
+        },
+        {
+            "smartling": "fr-CA",
+            "application": "fr-CA"
+        },
+        {
+            "smartling": "fr-FR",
+            "application": "fr"
+        },
+        {
+            "smartling": "de-DE",
+            "application": "de"
+        },
+        {
+            "smartling": "hi-IN",
+            "application": "hi-IN"
+        },
+        {
+            "smartling": "id-ID",
+            "application": "id"
+        },
+        {
+            "smartling": "it-IT",
+            "application": "it"
+        },
+        {
+            "smartling": "ja-JP",
+            "application": "ja"
+        },
+        {
+            "smartling": "ko-KR",
+            "application": "ko"
+        },
+        {
+            "smartling": "pl-PL",
+            "application": "pl"
+        },
+        {
+            "smartling": "pt-BR",
+            "application": "pt-BR"
+        },
+        {
+            "smartling": "pt-PT",
+            "application": "pt-PT"
+        },
+        {
+            "smartling": "ru-RU",
+            "application": "ru"
+        },
+        {
+            "smartling": "es",
+            "application": "es"
+        },
+        {
+            "smartling": "es-MX",
+            "application": "es-MX"
+        },
+        {
+            "smartling": "es-ES",
+            "application": "es-ES"
+        },
+        {
+            "smartling": "tr-TR",
+            "application": "tr"
+        },
+        {
+            "smartling": "vi-VN",
+            "application": "vi"
+        }
+    ],
+    "resourceSets": [{
+        "type": "MARKDOWN",
+        "authorizeContent": "false",
+        "pathRegex": "legal-test\\/(?<path>.*)\\/en\\.md",
+        "translationPathExpression": "legal-test/${path}/${locale}_sl.${originalFile.extension}",
+        "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}"
+        
+    },{
+        "type": "FLUENT",
+        "authorizeContent": "false",
+        "pathRegex": "www-l10n-test\\/en\\/(?<path>.*)\\.ftl",
+        "translationPathExpression": "www-l10n-test/sl-test/${locale}/${path}_sl.${originalFile.extension}",
+        "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}"
+
+    },
+    {
+        "type": "html",
+        "authorizeContent": "false",
+        "pathRegex": "mdn-test\\/en-US\\/glossary\\/(?<path>.*)\\/index\\.html",
+        "translationPathExpression": "mdn-test/${locale}/glossary/${path}/index_sl.${originalFile.extension}",
+        "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}",
+        "smartlingDirectives": [
+            "smartling.placeholder_format_custom = (<code>([^<]+)<\\/code>|---|>-|(title|slug|summary|tags):|\\{\\{([^\\}]+)\\}\\})"
+        ]
+    }]
+}
