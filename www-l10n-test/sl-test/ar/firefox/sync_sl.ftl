@@ -24,13 +24,13 @@ firefox-sync-we-store-your = نحن نخزّن بياناتك المشفّرة �
 
 firefox-sync-start-syncing-in = ابدأ المزامنة في أربع خطوات سهلة:
 
-firefox-sync-open-the-menu = افتح القائمة أعلى يمين { -brand-name-firefox } واختر <strong>&quot;تسجيل الدخول في { -brand-name-sync }&quot;</strong>.
+firefox-sync-open-the-menu = افتح القائمة أعلى يمين { -brand-name-firefox } واختر“ <strong>&quot;تسجيل الدخول في { -brand-name-sync }“</strong>.
 
-firefox-sync-click-get-started = انقر <strong>&quot;ابدأ&quot;</strong> في التبويب الذي يُفتح.
+firefox-sync-click-get-started = انقر <strong>“ابدأ“</strong> في التبويب الذي يُفتح.
 
-firefox-sync-enter-an-email = أدخل عنوان البريد الإلكتروني وكلمة المرور <strong>&quot;لإنشاء { -brand-name-firefox-account }.&quot;</strong>
+firefox-sync-enter-an-email = أدخل عنوان البريد الإلكتروني وكلمة المرور <strong>“لإنشاء { -brand-name-firefox-account }.“</strong>
 
-firefox-sync-click-next-to = انقر <strong>&quot;التالي&quot;</strong> وسَتصلك رسالة تحقّق إلى بريدك الإلكتروني.
+firefox-sync-click-next-to = انقر <strong>“التالي“</strong> وسَتصلك رسالة تحقّق إلى بريدك الإلكتروني.
 
 firefox-sync-after-you-check = بعد أن تفتح بريدك الإلكتروني وتنقر على رابط التحقّق، سيبدأ { -brand-name-firefox } المزامنة تلقائيًا في الخلفية.
 

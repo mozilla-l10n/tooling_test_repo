@@ -24,13 +24,13 @@ firefox-sync-we-store-your = Almacenamos tus datos cifrados en nuestros servidor
 
 firefox-sync-start-syncing-in = Comienza a sincronizar en cuatro sencillos pasos:
 
-firefox-sync-open-the-menu = Abre el menú en la parte superior derecha de { -brand-name-firefox } y selecciona <strong>. &quot;Iniciar sesión para { -brand-name-sync }&quot;</strong>.
+firefox-sync-open-the-menu = Abre el menú en la parte superior derecha de { -brand-name-firefox } y selecciona <strong> “Iniciar sesión para { -brand-name-sync }”</strong>.
 
-firefox-sync-click-get-started = Dentro de la pestaña que se abre, haz clic en <strong>&quot;Comenzar&quot;</strong>.
+firefox-sync-click-get-started = Dentro de la pestaña que se abre, haz clic en <strong>“Comenzar”</strong>.
 
-firefox-sync-enter-an-email = Ingresa una dirección de correo electrónico y una contraseña para <strong>&quot;Crear una { -brand-name-firefox-account }&quot;.</strong>
+firefox-sync-enter-an-email = Ingresa una dirección de correo electrónico y una contraseña para <strong>“Crear una { -brand-name-firefox-account }”.</strong>
 
-firefox-sync-click-next-to = Haz clic en <strong>&quot;Siguiente&quot;</strong> para recibir una verificación en tu correo electrónico.&quot;
+firefox-sync-click-next-to = Haz clic en <strong>“Siguiente”</strong> para recibir una verificación en tu correo electrónico.
 
 firefox-sync-after-you-check = Después de que hagas clic en el enlace de verificación enviado a tu correo electrónico, { -brand-name-firefox } comenzará a sincronizarse automáticamente en segundo plano.
 
