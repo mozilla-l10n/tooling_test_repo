@@ -16,9 +16,9 @@
             "application": "nl"
         },
         {
-            "smartling": "fr-CA",
-            "application": "fr-CA"
-        },
+            "smartling": "nl-BE",
+            "application": "nl-BE"
+        },                
         {
             "smartling": "fr-FR",
             "application": "fr"
@@ -48,6 +48,10 @@
             "application": "ko"
         },
         {
+            "smartling": "ms-MS",
+            "application": "ms"
+        },
+        {
             "smartling": "pl-PL",
             "application": "pl"
         },
@@ -74,6 +78,10 @@
         {
             "smartling": "es-ES",
             "application": "es-ES"
+        },
+        {
+            "smartling": "sw",
+            "application": "sw"
         },
         {
             "smartling": "tr-TR",
