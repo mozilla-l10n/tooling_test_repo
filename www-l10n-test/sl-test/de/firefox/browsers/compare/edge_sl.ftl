@@ -1,0 +1,63 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
+
+# HTML page title.
+compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } vs. { -brand-name-microsoft } { -brand-name-edge } : Welcher ist der bessere Browser für Sie?
+
+# HTML page description.
+compare-edge-compare-microsoft-edge-to-the = Vergleichen Sie { -brand-name-microsoft } { -brand-name-edge } mit { -brand-name-firefox-browser } , um herauszufinden, welcher Browser für Sie der bessere ist.
+
+# Main title.
+compare-edge-comparing-firefox-browser-with = Vergleich von { -brand-name-firefox-browser } mit { -brand-name-microsoft } { -brand-name-edge }
+compare-edge-with-windows-10-microsoft-introduced = Mit { -brand-name-windows } 10 hat { -brand-name-microsoft } seinen { -brand-name-edge } Browser eingeführt, um mit { -brand-name-firefox } und { -brand-name-chrome } zu konkurrieren. Damit ist er der Standardbrowser, der auf Millionen verkaufter PCs vorinstalliert ist. Trotzdem nahmen die Benutzer es nur langsam an und { -brand-name-microsoft } kündigte schließlich Pläne an, { -brand-name-edge } als { -brand-name-chromium } -basierten Browser neu zu starten ( { -brand-name-chromium } natürlich das Open Source-Browserprojekt von { -brand-name-google } ).
+compare-edge-here-well-compare-our-firefox = Hier vergleichen wir unsere { -brand-name-firefox-browser } mit der { -brand-name-chromium } -basierten { -brand-name-microsoft } { -brand-name-edge } in Bezug auf Datenschutz, Nützlichkeit und Portabilität, um Ihnen ein besseres Verständnis dafür zu vermitteln, welcher Browser Ihren Anforderungen und Vorlieben besser entspricht.
+
+# "SmartScreen" and "Windows Hello" are brand names.
+compare-edge-edge-is-integrated-into-the = { -brand-name-edge } ist in die { -brand-name-windows } 10-Plattform integriert und wird in einer Sandbox-Umgebung ausgeführt. Dies bedeutet, dass Programme isoliert werden und schädliche Programme nicht auf Ihrem Computer ausspioniert werden können. Es verfügt über einen integrierten SmartScreen, der die Reputation der von Ihnen besuchten Websites überprüft und verdächtige Websites blockiert. Um die Privatsphäre zu verbessern, können Sie mit { -brand-name-edge } biometrische Daten oder eine PIN mit { -brand-name-edge } Hallo anstelle von Kennwörtern für die Online-Authentifizierung verwenden.
+
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-we-pride-ourselves = Bei { -brand-name-firefox } sind wir stolz darauf, die Sicherheit und Privatsphäre unserer Benutzer zu schützen. Unsere <a { $attrs }>Datenschutzrichtlinie</a> ist transparent und in Klartext. Wir haben viel Arbeit investiert, um sicherzustellen, dass es einfach und leicht zu lesen ist. Wenn der erweiterte Tracking-Schutz jetzt standardmäßig aktiviert ist, blockieren wir mehr als 2000 Tracker automatisch. Tracker sind diese kleinen Codeteile, die versuchen, Ihre Aktivitäten auf mehreren Internetseiten zusammenzufassen, um ein zusammengesetztes und detailliertes Bild davon zu erstellen, wer Sie sind, und Ihre Privatsphäre zu gefährden, nur um bessere Anzeigen zu erzielen.
+
+# Variables:
+#   $attrs (string) - link to /privacy/firefox/ with additional attributes for analytics
+compare-edge-at-firefox-our-privacy-fallback = Bei { -brand-name-firefox } ist unsere <a { $attrs }>Datenschutzrichtlinie</a> transparent und in Klartext. Wir haben viel Arbeit investiert, um sicherzustellen, dass es einfach und leicht zu lesen ist. Wir sind stolz darauf, die Sicherheit und Privatsphäre unserer Benutzer zu schützen. Wenn der erweiterte Tracking-Schutz jetzt standardmäßig aktiviert ist, blockieren wir mehr als 2000 Tracker automatisch. Tracker sind diese kleinen Codeteile, die versuchen, Ihre Aktivitäten auf mehreren Internetseiten zusammenzufassen, um ein zusammengesetztes und detailliertes Bild davon zu erstellen, wer Sie sind, und Ihre Privatsphäre zu gefährden, nur um bessere Anzeigen zu erzielen.
+
+# Variables:
+#   $attrs (string) - link to /firefox/privacy/products/ with additional attributes for analytics
+compare-edge-your-privacy-protections-shows = Ihr <a { $attrs }>Datenschutz</a> zeigt Ihnen die Tracker und Cookies, die Seiten zu verlassen versucht haben, und wie viele { -brand-name-firefox } für Sie blockiert wurden.
+
+# "InPrivate" is a brand name.
+compare-edge-in-firefox-private-browsing = In { -brand-name-firefox } löscht der private Browsermodus automatisch Ihre Browsing-Informationen wie Kennwörter, Cookies und Verlauf und hinterlässt nach dem Schließen der Sitzung keine Spuren. { -brand-name-edge } hingegen zeichnet den Browserverlauf tatsächlich im privaten Modus („InPrivate“ genannt) auf, und es ist für jemanden eine relativ einfache Aufgabe, den vollständigen Browserverlauf zu rekonstruieren, unabhängig davon, ob das Surfen im regulären oder im InPrivate-Modus durchgeführt wurde.
+compare-edge-both-browsers-are-relatively = Beide Browser sind hinsichtlich der Datenverschlüsselung relativ gleich. Wenn Ihnen jedoch Online-Datenschutz und Transparenz wichtig sind, ist { -brand-name-firefox } hier eindeutig die bessere Wahl.
+compare-edge-firefox-is-a-fast-and-open = { -brand-name-firefox } ist ein schneller und Open-Source-Browser, mit dem Benutzer ihre Browser-Erfahrung auf jede mögliche Weise anpassen können. { -brand-name-firefox } kann der Gelegenheitsbenutzer die Benutzeroberfläche auf verschiedene Arten anpassen, indem er verschiedene Themen und Symbolleistenkonfigurationen anwendet. Da unser Browser immer Open Source war, haben wir eine große Anzahl engagierter Entwickler, die eine umfangreiche Bibliothek mit Add-Ons und Browser-Erweiterungen erstellt haben.
+compare-edge-firefox-is-a-fast-and-open-fallback = { -brand-name-firefox } ist ein schneller und Open-Source-Browser, mit dem Benutzer ihre Browser-Erfahrung auf jede mögliche Weise anpassen können. { -brand-name-firefox } kann der Gelegenheitsbenutzer die Benutzeroberfläche auf verschiedene Arten anpassen, indem er verschiedene Themen und Symbolleistenkonfigurationen anwendet. Da unser Browser immer Open Source war, haben wir eine große Anzahl engagierter Entwickler, die eine umfangreiche Bibliothek mit Add-Ons und Browser-Erweiterungen erstellt haben.
+compare-edge-since-edge-has-moved-to-the = Da { -brand-name-edge } auf die prozessorintensive { -brand-name-chromium } -Plattform verschoben wurde, können Sie davon ausgehen, dass sie etwas langsamer ausgeführt wird, insbesondere wenn mehrere Programme gleichzeitig ausgeführt werden. Mit der { -brand-name-chromium } -Plattform kommen jedoch eine umfangreiche Bibliothek mit Erweiterungen sowie eine angemessene Anpassung der Benutzeroberfläche, die { -brand-name-edge } vor dem Wechsel zu { -brand-name-chromium } .
+compare-edge-edge-has-some-nice-ui-features = { -brand-name-edge } verfügt über einige nette Funktionen der Benutzeroberfläche, wie z. B. die Vorschau der Registerkarten, mit denen Sie leicht die richtigen geöffneten Registerkarten finden können, wenn viele davon geöffnet sind. Mit einer weiteren hilfreichen Funktion im Zusammenhang mit Registerkarten können Sie alle aktiven Registerkarten beiseite legen, die Sie nicht verwenden, aber nicht schließen möchten.
+
+# Variables:
+#   $attrs (string) - link to /firefox/pocket/ with additional attributes for analytics
+compare-edge-firefox-features-a-scrolling = { -brand-name-firefox } verfügt über eine Oberfläche zum Scrollen von Registerkarten, mit der Registerkarteninformationen angezeigt und horizontal gescrollt werden können, anstatt sie auf die Favicon-Größe zu verkleinern. Auch wenn Sie einen neuen Tab öffnen, schlägt unsere <a { $attrs }>{ -brand-name-pocket } -Funktion</a> relevante Artikel und Inhalte für Sie vor. Mit { -brand-name-pocket } können Sie außerdem Artikel, Videos und andere Inhalte mit einem Klick speichern, um sie zu einem späteren Zeitpunkt zu lesen.
+compare-edge-firefox-and-edge-both-offer = { -brand-name-firefox } und { -brand-name-edge } bieten beide hervorragende Lesemodi. Mit { -brand-name-firefox } tippen Sie einfach auf das kleine Symbol in der Suchleiste und der Browser entfernt alle unnötigen Elemente und präsentiert Ihnen einen sauber aussehenden Artikel. In { -brand-name-edge } tippen Sie einfach auf das kleine Buchsymbol und den Browser, um eine saubere, einfach zu lesende Benutzeroberfläche zu erhalten.
+compare-edge-firefox-and-edge-both-offer-fallback = { -brand-name-firefox } und { -brand-name-edge } bieten beide hervorragende Lesemodi. Mit { -brand-name-firefox } tippen Sie einfach auf das kleine Symbol in der Suchleiste und der Browser entfernt alle unnötigen Elemente und präsentiert Ihnen einen sauber aussehenden Artikel. In { -brand-name-edge } tippen Sie einfach auf das kleine Buchsymbol und den Browser, um eine saubere, einfach zu lesende Benutzeroberfläche zu erhalten.
+
+# Variables:
+#   $attrs (string) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop with additional attributes for analytics
+compare-edge-firefox-also-includes-lots = { -brand-name-firefox } enthält standardmäßig auch viele praktische integrierte Funktionen wie den <a { $attrs }>erweiterten Tracking-Schutz</a> , ein integriertes Screenshot-Tool, das Senden großer Dateien und vieles mehr.
+
+# "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
+compare-edge-out-of-the-gate-firefox-has = Von Anfang an verfügt { -brand-name-firefox } über weitere Funktionen und Integrationen, die in den Browser integriert sind und zum Herunterladen verfügbar sind. Und während beiden Browser haben eine enorme Anzahl von Add-ons und Erweiterungen zur Verfügung, { -brand-name-edge } ‚s Kompatibilität mit { -brand-name-google } ‘ s { -brand-name-chromium } Plattform des Vorteil in Bezug auf den bloßen Zahlen gibt.
+
+compare-edge-with-internet-explorer-microsoft = Mit { -brand-name-ie } lernte { -brand-name-microsoft } aus der mangelnden Verfügbarkeit auf allen Plattformen und machte { -brand-name-edge } auf { -brand-name-ios } , { -brand-name-android } , { -brand-name-windows } , { -brand-name-mac } und bald auf { -brand-name-linux } verfügbar.
+compare-edge-with-internet-explorer-fallback = Mit { -brand-name-ie } lernte { -brand-name-microsoft } aus der mangelnden Verfügbarkeit auf allen Plattformen und stellte { -brand-name-edge } für { -brand-name-mac } und { -brand-name-android } . Die Software ist jetzt für { -brand-name-ios } , { -brand-name-android } , { -brand-name-windows } und { -brand-name-mac } verfügbar.
+
+# Variables:
+#   $attrs (string) - link to /firefox/accounts/ with additional attributes for analytics
+compare-edge-firefox-has-been-available = { -brand-name-firefox } ist seit Jahren auf { -brand-name-ios } , { -brand-name-android } , { -brand-name-windows } , { -brand-name-mac } und { -brand-name-linux } verfügbar. Und wie Sie es von jedem modernen Browser erwarten würden, können Sie sich mit { -brand-name-firefox } mit einem <a { $attrs }>kostenlosen Konto</a> anmelden und Daten wie Kennwörter, Browserverlauf, Lesezeichen und geöffnete Registerkarten zwischen Ihrem Computer, Tablet und Telefon synchronisieren. Sie können damit auch plattformübergreifend synchronisieren.
+compare-edge-edge-also-allows-you-to-connect = { -brand-name-edge } können Sie auch Ihr zugeordnetes { -brand-name-microsoft } Konto verbinden und sich anmelden, um Ihre Favoriten, den Verlauf, Kennwörter und mehr zwischen Ihrem Computer und { -brand-name-ios } oder { -brand-name-android } Geräten zu synchronisieren.
+compare-edge-edge-also-allows-you-to-fallback = { -brand-name-edge } können Sie auch Ihr zugeordnetes { -brand-name-microsoft } Konto verbinden und sich anmelden, um Ihre Favoriten, den Verlauf, Kennwörter und mehr zwischen Ihrem Computer und { -brand-name-ios } oder { -brand-name-android } Geräten zu synchronisieren, obwohl einige { -brand-name-android } Tablets derzeit nicht verfügbar sind unterstützt.
+
+compare-edge-the-bottom-line-is-that-while = Das Fazit ist, dass wir zwar die Verwendung von { -brand-name-firefox } vorschlagen, der beste Browser für Sie jedoch letztendlich derjenige ist, der Ihren individuellen Anforderungen mit Erweiterungsunterstützung, Anpassung der Browsing-Tools, Geschwindigkeit, Datenschutz und Sicherheit entspricht.
